@@ -1,7 +1,9 @@
 # PurelyPeer Application Release Public History
 
+This is a separate repository for PurelyPeer releases, while the source code repositories are still private (for security reasons).
 
-# 0.8.2
+
+# 0.8.2 <img src="https://img.shields.io/badge/Latest-Stable-green?style=flat-square" align="center" height="20" />
 
 ### 📦 Source File
 - [Release APK](./apks/purelypeer-app-v0.8.2_android.apk)
@@ -20,7 +22,7 @@
 - `Create Mode`: fixed bug on memo editing becoming null
 - `Notifications`: fixed bug on multicast notifications for flagging cashdrops and unblocking users
 
-# 0.8.1
+# 0.8.1 <img src="https://img.shields.io/badge/History-v0.8.1-blue?style=flat-square" align="center" height="20" />
 
 ### 📦 Source File
 - [Release APK](./apks/purelypeer-app-v0.8.1_android.apk)
@@ -40,7 +42,7 @@
 - `Quest Details`: fixed blank URLs showing as unsafe
 
 
-# 0.8.0
+# 0.8.0 <img src="https://img.shields.io/badge/Status-Old-red?style=flat-square" align="center" height="20" />
 
 ### 📦 Source File
 - [Release APK](./apks/purelypeer-app-v0.8.0_android.apk)
