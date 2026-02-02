@@ -42,7 +42,7 @@ This is a separate repository for PurelyPeer releases, while the source code rep
 - `Quest Details`: fixed blank URLs showing as unsafe
 
 
-# 0.8.0 <img src="https://img.shields.io/badge/Status-Old-red?style=flat-square" align="center" height="20" />
+# 0.8.0 <img src="https://img.shields.io/badge/Status-Deprecated-red?style=flat-square" align="center" height="20" />
 
 ### 📦 Source File
 - [Release APK](./apks/purelypeer-app-v0.8.0_android.apk)
