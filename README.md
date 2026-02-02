@@ -1,4 +1,4 @@
-## PurelyPeer Application Release Public History
+# PurelyPeer Application Release Public History
 
 
 # 0.8.2
