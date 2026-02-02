@@ -3,6 +3,8 @@
 
 # 0.8.2
 
+- [Release APK](./apks/purelypeer-app-v0.8.2_android.apk)
+
 ### ✨ Improvements
 - `Create Mode`: added media posting during quest creation
 - `Create Mode`: added text moderation on quest name and memo
@@ -18,6 +20,8 @@
 - `Notifications`: fixed bug on multicast notifications for flagging cashdrops and unblocking users
 
 # 0.8.1
+
+- [Release APK](./apks/purelypeer-app-v0.8.1_android.apk)
 
 ### 🚀 Features
 - `Create Mode`: users can now add media
@@ -35,6 +39,9 @@
 
 
 # 0.8.0
+
+- [Release APK](./apks/purelypeer-app-v0.8.0_android.apk)
+
 ### 🚀 Features
 - `CashTokens`: added CashTokens support for wallets (send, receive, gallery, etc.)
 
