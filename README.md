@@ -3,7 +3,7 @@
 
 # 0.8.2
 
-- [Release APK](./apks/purelypeer-app-v0.8.2_android.apk)
+- [Release APK](./apks/purelypeer-app-v0.8.2_android.apk?raw=true)
 
 ### ✨ Improvements
 - `Create Mode`: added media posting during quest creation
@@ -21,7 +21,7 @@
 
 # 0.8.1
 
-- [Release APK](./apks/purelypeer-app-v0.8.1_android.apk)
+- [Release APK](./apks/purelypeer-app-v0.8.1_android.apk?raw=true)
 
 ### 🚀 Features
 - `Create Mode`: users can now add media
@@ -40,7 +40,7 @@
 
 # 0.8.0
 
-- [Release APK](./apks/purelypeer-app-v0.8.0_android.apk)
+- [Release APK](./apks/purelypeer-app-v0.8.0_android.apk?raw=true)
 
 ### 🚀 Features
 - `CashTokens`: added CashTokens support for wallets (send, receive, gallery, etc.)
